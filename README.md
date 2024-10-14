@@ -4,7 +4,7 @@
 
 • 📚 Cyber Security student @ [fiap](https://www.fiap.com.br)
 
-• 🕹️ Capture The Flag player @ [tryhackme](https://tryhackme.com)
+• 🕹️ Capture The Flag player @ [tryhackme](https://tryhackme.com/r/p/sickb0y)
 
 ![output](https://github.com/user-attachments/assets/5db0d6be-74c9-45b4-958e-6efcc5ed5fa6)
 
