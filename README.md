@@ -8,7 +8,7 @@
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSickb0y&layout=compact&theme=vision-friendly-dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSickb0y&theme=vision-friendly-dark)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=0xSickb0y&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true) 
 
