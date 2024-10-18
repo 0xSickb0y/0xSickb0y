@@ -15,5 +15,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=0xSickb0y&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true) 
 
 ---
-
-![output](https://github.com/user-attachments/assets/5db0d6be-74c9-45b4-958e-6efcc5ed5fa6)
