@@ -1,8 +1,4 @@
-• 🥷 Aspiring Red Team operator
-
-• 📚 Cyber Security student
-
-• 🕹️ Capture The Flag player
+• 🥷 Aspiring Red Team operator • 📚 Cyber Security student • 🕹️ Capture The Flag player
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" alt="GNU Bash" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/rust.svg" width="36" height="36" alt="rust" /><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/mysql.svg" width="36" height="36" alt="mysql" /><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="ps1" />
 
