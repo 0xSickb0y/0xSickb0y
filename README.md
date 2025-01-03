@@ -8,7 +8,7 @@
 
 Dedicated Cybersecurity student, with over 3 years of self-driven experience in both offensive and defensive security, constantly evolving, with great persistence to overcome complex challenges.
 
-I'm currently learning low-level programming in Rust and exploring network services, with the aim of pursuing a career as a Penetration Tester in the future.
+Currently, I am learning the Rust programming language, exploring network services, and practicing on CyberSecurity training platforms, with the goal of pursuing a career as a Penetration Tester in the future.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xSickb0y.png" alt="Your Image Badge" />
 
