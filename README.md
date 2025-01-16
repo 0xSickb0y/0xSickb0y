@@ -6,8 +6,6 @@ Dedicated Cybersecurity student, with over 3 years of self-driven experience in 
 
 Currently, I am learning the Rust programming language, exploring network services, and practicing on CyberSecurity training platforms, with the goal of pursuing a career as a Penetration Tester in the future.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xSickb0y.png" alt="Your Image Badge" />
-
 ## Technologies & Tools
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="22" height="22" alt="Python" /> _Python_
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="22" height="22" alt="GNU Bash" /> _Bash_
