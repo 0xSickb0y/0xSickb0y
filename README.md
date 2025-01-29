@@ -1,4 +1,4 @@
-## Whoami
+# Whoami
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=18&duration=3500&pause=11000&color=FFFFFF&background=FFFFFF00&multiline=true&width=435&height=32&lines=0xSickb0y&color=7DFA00)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xSickb0y&repo=OffensiveToolkit&theme=chartreuse-dark)](https://github.com/0xSickb0y/OffensiveToolkit)
 
 
-## Stats
+# Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=0xSickb0y&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&text_bold=true) 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSickb0y&theme=chartreuse-dark&langs_count=3&text_bold=true) 
