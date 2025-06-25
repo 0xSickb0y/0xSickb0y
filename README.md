@@ -15,6 +15,6 @@
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=0xSickb0y&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&text_bold=true) 
+![Stats](https://github-readme-stats.vercel.app/api?username=0xSickb0y&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=false&include_all_commits=true&text_bold=true) 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSickb0y&theme=chartreuse-dark&langs_count=3&text_bold=true) 
 
