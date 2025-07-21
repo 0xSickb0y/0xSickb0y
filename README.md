@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xSickb0y&repo=writeups&theme=chartreuse-dark&description_lines_count=2&card_width=700)](https://github.com/0xSickb0y/writeups)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xSickb0y&repo=SearchParty&theme=chartreuse-dark)](https://github.com/0xSickb0y/SearchParty)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xSickb0y&repo=OffensiveToolkit&theme=chartreuse-dark)](https://github.com/0xSickb0y/OffensiveToolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xSickb0y&repo=todo-rs&theme=chartreuse-dark&description_lines_count=2&card_width=700)](https://github.com/0xSickb0y/todo-rs)
 
 
 ## Stats
